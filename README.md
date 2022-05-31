@@ -1,6 +1,6 @@
 - 👋   Hi, I’m Yulian Stefanov,for friends I am just Docky.
 - 👀   I am curious by nature, but we will talk about my interests later and in person.
-- 🌱   В момента уча Python.
+- 🌱   I study Python.
 - 💞️   I am looking to collaborate with enthusiasts who want to change the future of humans and our planet by: 
    -   reducing human exploitation and shifting most of the work to robots; 
    -   improve the cleanliness of the environment and, at the same time, increase the quality, purity and usefulness of food; 
